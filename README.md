@@ -1,5 +1,7 @@
 # Educational Administration System
 
+Laylalaisy: This is a project we developed during 2018 spring as educational administration system. I forked this repository from our team leader. Have to say, developing with more than 20 people of a large scale project is not easy at all! Whatever, good experience and learning a lot!
+
 ### 开发流程
 
 1. 将master分支pull到本地，**创建自己的分支**进行代码改动
